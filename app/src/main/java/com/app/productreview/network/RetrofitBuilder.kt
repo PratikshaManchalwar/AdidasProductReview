@@ -5,8 +5,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitBuilder {
 
-    private const val BASE_URL_PRODUCT = "http://192.168.2.5:3001/"
-    private const val BASE_URL_REVIEW = "http://192.168.2.5:3002/"
+    private const val BASE_URL_PRODUCT = "http://localhost:3001/"
+    private const val BASE_URL_REVIEW = "http://locahost:3002/"
 
     private fun getRetrofitProduct(): Retrofit {
         return Retrofit.Builder()
