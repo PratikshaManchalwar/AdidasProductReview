@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProductReview</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="writeReviewText">Please write product review here...</string>
+    <string name="writeReviewlabel">Write your review here</string>
+    <string name="addReview">Add Review</string>
+    <string name="productLabel">Product : </string>
+    <string name="descriptionLabel">Description : </string>
+    <string name="priceLabel">Price : </string>
+    <string name="reviewLabel">Review : </string>
+    <string name="ratingLabel">Rating : </string>
+    <string name="submit">Submit</string>
+    <string name="internetConnectioinLabel">Internet Connection</string>
+    <string name="internetConnectionText">Please Check Your Internet Connection</string>
+
+    <string-array name="Ratings">
+        <item>Very Satisfied</item>
+        <item>Satisfied</item>
+        <item>Fair</item>
+        <item>Dissatisfied</item>
+        <item>Very Dissatisfied</item>
+    </string-array>
+
+</resources>
